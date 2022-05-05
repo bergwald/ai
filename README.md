@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="assets/logo.svg" width="180" alt="Logo - A 3d surface plot of the ReLU activation function"/>
+    <img src="logo.svg" width="180" alt="Logo - A 3d surface plot of the ReLU activation function"/>
 </p>
 
 <h1 align="left">Artificial Intelligence</h1>
