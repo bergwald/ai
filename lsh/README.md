@@ -1,6 +1,6 @@
 # Locality Sensitive Hash Functions
 
-Numpy implementation of the [SimHash](https://en.wikipedia.org/wiki/SimHash) and [MinHash](https://en.wikipedia.org/wiki/MinHash) locality sensitive hash functions.
+Numpy implementations of the [SimHash](https://en.wikipedia.org/wiki/SimHash) and [MinHash](https://en.wikipedia.org/wiki/MinHash) locality sensitive hash functions.
 
 ## Examples
 
