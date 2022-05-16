@@ -6,11 +6,17 @@
 
 A collection of notebooks on artificial intelligence, with a focus on deep learning and data engineering.
 
+## Projects
+
+- [lsh](lsh/): Implementations of the *SimHash* and *MinHash* locality sensitive hash functions
+
 ## Notebooks
 
-- Neural networks: building blocks
-- A visualization of the effects of non-linearities on decision surfaces
+### Deep Learning
 
-## Data Engineering Series
+- [building-blocks/neuralnetworks.ipynb](building-blocks/neuralnetworks.ipynb): Neural networks: building blocks
+- [building-blocks/nonlinearity.ipynb](building-blocks/nonlinearity.ipynb): A visualization of the effects of non-linearities on decision surfaces
 
-- Approximate dataset joins using Hierarchical Navigable Small World (HNSW) graphs
+### Data Engineering
+
+- [ann/ann.ipynb](ann/ann.ipynb): An overview of approximate nearest neighbor search methods
