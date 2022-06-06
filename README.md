@@ -19,4 +19,4 @@ A collection of notebooks on artificial intelligence, with a focus on deep learn
 
 ### Data Engineering
 
-- [ann/ann.ipynb](ann/ann.ipynb): An overview of approximate nearest neighbor search methods
+- [nns/nns.ipynb](nns/nns.ipynb): An overview of nearest neighbors search methods
