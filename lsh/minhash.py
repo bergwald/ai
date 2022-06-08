@@ -24,13 +24,13 @@ class MinHasher():
 
     def hash(self, s: Iterable[bytes]):
         """
-        Compute the hash of arrays of bytes.
+        Compute the hash of a sequence of byte arrays.
         
         Arguments:
             - s: An iterable (e.g. a list, set) of byte arrays.
         
         Returns:
-            - The hash as an array.
+            - The hash as a Numpy array.
         """
         vec = np.full(self.d, MAX)
         for element in s:
