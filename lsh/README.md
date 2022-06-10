@@ -20,10 +20,10 @@ vec2 = hasher.hash(b)
 print(f"Real Jaccard distance: {jaccard_distance(a, b)}")
 print(f"Approximate Jaccard Distance: {approx_jaccard_distance(vec1, vec2)}")
 ```
-Out:
-
-Real Jaccard distance: 0.75<br>
+```
+Real Jaccard distance: 0.75
 Approximate Jaccard Distance: 0.7421875
+```
 
 **Simhash**
 
@@ -39,7 +39,9 @@ sh2 = simhash(features(b))
 
 print(hamming_distance(sh1, sh2))
 ```
-Out: 4
+```
+4
+```
 
 ## Directory Structure
 
